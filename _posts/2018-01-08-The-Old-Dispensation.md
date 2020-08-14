@@ -8,12 +8,15 @@ categories: [Short Stories]
 Based on _Evie&#39;s Eyes_
 
 by Hannah Harmison
-***
+
+---
+
 >We returned to our places, these Kingdoms, \
 >But no longer at ease here, in the old dispensation \
 >With an alien people clutching their gods. \
 >I should be glad of another death.
-***
+
+---
 
 Evie stood, alone in the kitchen, staring at a bowl of apples. Frozen for a moment, hanging in time. Green? Why green? Nobody in the house liked green apples. So stranded in her head she hardly heard her mother call.
 
@@ -298,7 +301,8 @@ Evie turned to them. God&#39;s will had shifted, that much was clear. Her parent
 Standing there, near the tennis court, feeling hollow and useless, Evie realized these flesh-stuck fellows intended nothing save to till the ground from whence they were taken. So, their place in the world was sure. But how tragic a fate is that?
 
 With no providence to guide her Evie stood, solitary.
-***
+
+---
 
 Williamsburg
 

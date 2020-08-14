@@ -1,13 +1,14 @@
 # Jekyll AO Paper
-#
-# This is the configuration file
-
-title: 'American Oneironautics'
+title: American Oneironautics
 email: americanoneironautics@gmail.com
 name: American Oneironautics
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Wait just a metaphysical moment...
-keywords: [American][Oneironautics][literature][dreams]
+keywords: 
+  - [American]
+  - [Oneironautics]
+  - [Literature]
+  - [Dreams]
 baseurl: '' # the subpath, e.g. /`blog
 url: '' # the base hostname & protocol, e.g. http://example.com
 domain: 'americanoneironautics.com' # the domain name, e.g. example.com
