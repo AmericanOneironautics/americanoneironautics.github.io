@@ -10,6 +10,7 @@ categories: [A119]
 # A Dum y a Dame
 
 >One particular application of the theory is the cyclic ekpyrotic model of Steinhardt &amp; Trunk. This model has Hav > 0 for null geodesics for a single cycle, and since every cycle is identical, Hav > 0 when averaged over all cycles. The cyclic model is therefore past-incomplete, and requires a boundary condition in the past.
+
 ***
 
 
