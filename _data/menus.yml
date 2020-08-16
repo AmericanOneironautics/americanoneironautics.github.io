@@ -6,6 +6,7 @@
 
 - title: 'Twitter'
   absoluteUrl: true
+  newTab: true
   url: 'https://twitter.com/AOneironautics'
 
 - default: menu_about
