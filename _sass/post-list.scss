@@ -10,8 +10,13 @@
 
 .posts-list-item-name {
   width: calc(100% - 100px);
+  font-weight: 400;
+}
+
+.posts-list-item-date {
   font-weight: 300;
 }
+
 
 .list-pagination {
   margin: 20px 0 10px 0;

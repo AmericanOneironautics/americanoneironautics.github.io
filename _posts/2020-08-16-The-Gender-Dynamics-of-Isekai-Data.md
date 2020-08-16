@@ -85,3 +85,6 @@ To add further confusion, there is an incessant trend of declaring that a girl w
 For some further discussion on the moral difficulties inherent in this voodoo-aging nonsense, see &quot;I Dated a Robot: The Ethics of Robot-Human Relations&quot; by American Oneironautics.
 
 Ultimately, this data draws one to the conclusion that isekai, as a general rule, features male protagonists being transported into fantasy lands in which they lord over females somewhat younger than themselves. While some isekai rejects this framework, the trends indicate that the genre, as a whole, leans towards this fundamental conceit.
+
+---
+---
