@@ -12,7 +12,7 @@ This website exists to catalogue the collected writings and images of American O
 
 To contact American Oneironautics, write to: americanoneironautics@gmail.com
 
-or put your letter in an envelope, write &quot;SEND TO AO&quot; really big on the letter in crayon, stick it in your mailbox (with a stamp) and hope the mail people are bros.
+or put your letter in an envelope, write &quot;SEND TO AO&quot; really big on the envelope in crayon, stick it in your mailbox (with a stamp) and hope the mail people are bros.
 
 You can also send us a fax, but we&#39;re not going to get it, since we don&#39;t have a fax machine.
 
