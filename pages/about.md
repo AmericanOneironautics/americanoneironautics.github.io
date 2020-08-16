@@ -26,36 +26,36 @@ You might also see us represented by our logo, a poorly-drawn picture of a monk 
 
 Our current members include:
 
-Basil Oregano | _Chief Executive Officer_ | _Executive Editor_
+Basil Oregano - _Chief Executive Officer_ - _Executive Editor_
 
-Theodore &quot;Handsome Teddy&quot; Jackson | _Chief Operating Officer_
+Theodore &quot;Handsome Teddy&quot; Jackson - _Chief Operating Officer_
 
-Серге́й Волков (Sergei Volkov)| _Digital Media Director_
+Серге́й Волков (Sergei Volkov)- _Digital Media Director_
 
-Jasper &quot;Kid Jasper&quot; Johnson | _Chief Marketing Officer_
+Jasper &quot;Kid Jasper&quot; Johnson - _Chief Marketing Officer_
 
-Dominique Reyes | _Assistant Editor_
+Dominique Reyes - _Assistant Editor_
 
-Jeremiah Prudence | _Chief Legal Officer_
+Jeremiah Prudence - _Chief Legal Officer_
 
-上野 灯 (Akari Ueno)| _Member_
+上野 灯 (Akari Ueno)- _Member_
 
-Samantha Cartwheel | _Member_
+Samantha Cartwheel - _Member_
 
-Richie Dogwood | _Member_
+Richie Dogwood - _Member_
 
-Persian Malone | _Member_
+Persian Malone - _Member_
 
-F. Jones | _Member_
+F. Jones - _Member_
 
-Alexander Bowen | _Member_
+Alexander Bowen - _Member_
 
-Mecha Porter | _Member_
+Mecha Porter - _Member_
 
-James Joyce | _Honorary Member_
+James Joyce - _Honorary Member_
 
-Henry Darger | _Honorary Member_
+Henry Darger - _Honorary Member_
 
-Ἀλκιβιάδης (Alcibiades) | _Honorary Member_
+Ἀλκιβιάδης (Alcibiades) - _Honorary Member_
 
 ---
