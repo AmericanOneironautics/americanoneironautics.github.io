@@ -20,7 +20,11 @@ You can also send us a fax, but we&#39;re not going to get it, since we don&#39;
 
 American Oneironautics is represented by our cute anime mascot, AO-chan.
 
+![AO-Chan](/assets/images/AOChan.png)
+
 You might also see us represented by our logo, a poorly-drawn picture of a monk wearing a VR headset.
+
+![AO Logo](/assets/images/AO.png)
 
 ---
 
