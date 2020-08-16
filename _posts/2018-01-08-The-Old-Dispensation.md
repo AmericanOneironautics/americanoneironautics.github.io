@@ -5,6 +5,8 @@ date:   2018-01-08
 last_modified_at: 2018-01-08
 categories: [Short Stories]
 ---
+---
+
 Based on _Evie&#39;s Eyes_
 
 by Hannah Harmison
@@ -303,8 +305,5 @@ Standing there, near the tennis court, feeling hollow and useless, Evie realized
 With no providence to guide her Evie stood, solitary.
 
 ---
-
-Williamsburg
-
-Fall, 2018
+---
 
