@@ -7,9 +7,9 @@ categories: [Images]
 ---
 
 ---
-### Baloon
+### Balloon
 
-![Baloon](/assets/images/Baloon.JPG)
+![Balloon](/assets/images/Balloon.JPG)
 
 ---
 ### Yellow

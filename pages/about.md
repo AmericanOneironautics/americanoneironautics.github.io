@@ -44,6 +44,8 @@ Jeremiah Prudence - _Chief Legal Officer_
 
 Elijah Bosley - _Assistant Digital Media Director_
 
+Alexander Bowen - _Visual Media Director_
+
 上野 灯 (Akari Ueno)- _Member_
 
 Samantha Cartwheel - _Member_
@@ -53,8 +55,6 @@ Richie Dogwood - _Member_
 Persian Malone - _Member_
 
 F. Jones - _Member_
-
-Alexander Bowen - _Member_
 
 Mecha Porter - _Member_
 
