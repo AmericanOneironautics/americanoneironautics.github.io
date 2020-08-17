@@ -42,6 +42,8 @@ Dominique Reyes - _Assistant Editor_
 
 Jeremiah Prudence - _Chief Legal Officer_
 
+Elijah Bosley - _Assistant Digital Media Director_
+
 上野 灯 (Akari Ueno)- _Member_
 
 Samantha Cartwheel - _Member_

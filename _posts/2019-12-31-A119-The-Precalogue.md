@@ -34,7 +34,7 @@ First of all, bang you all. False fam. Before the car-door&#39;s bang she came (
 
 Now prepped to pop. The other roadcars revved past. Doubling their number faster than they turned off, Zy Got! Off. She was off. @ the big disapartment building, east, near the streams. Turned the key (emergency brakes are for cowards), got out, and slammed the door. Bang.
 
-Thirteen seconds &amp; she&#39;s inside. The apartment barely sheltered from the miserly in that bin. Gold and silver shop \&lt; a mile away. Peaceful. God don&#39;t roll a pair o&#39; dice so… this the wat zay got.
+Thirteen seconds &amp; she&#39;s inside. The apartment barely sheltered from the miserly in that bin. Gold and silver shop < a mile away. Peaceful. God don&#39;t roll a pair o&#39; dice so… this the wat zay got.
 
 Confidont; taller as she strut through the habilat &#39;till she was as erect as us, wary and wise and schizofrantic. Well arrowed, kingly in color, encrusted in hellish wealth. Sneaky Roma Amor fabby sneaks by Fendi, high-rising wooltwillpants by Saint Laurent, Speedhunters T by Belenciaga, a maxi-sequin embroidered duster by Armani (covering the Tee), and Bulgari serpenti sunglasses perched on the top of herhead. Hair thrown in a thirty minute bun.
 
