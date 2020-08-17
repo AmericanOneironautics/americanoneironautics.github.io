@@ -26,13 +26,13 @@ categories: [Images]
 
 ### Purple
 
-![Purple](/assets/images/Purple/jpg)
+![Purple](/assets/images/Purple.jpg)
 
 ---
 
 ### Tiki
 
-![Tiki](/assets/images/Tiki.jpg)
+![Tiki](/assets/images/Tiki.JPG)
 
 ---
 
