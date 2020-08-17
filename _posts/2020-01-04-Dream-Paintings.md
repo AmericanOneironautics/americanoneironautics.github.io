@@ -10,19 +10,25 @@ categories: [Images]
 
 ### The Study
 
-[The Study](/assets/images/Study.png)
+![The Study](/assets/images/Study.png)
+
+[Original](/assets/images/Study.png)
 
 ---
 
 ### The View from the Dream Cabin
 
-[The View from the Dream Cabin](/assets/images/View.png)
+![The View from the Dream Cabin](/assets/images/View.png)
+
+[Original](/assets/images/View.png)
 
 ---
 
 ### The Dream Cabin
 
-[The Dream Cabin](/assets/images/Cabin.png)
+![The Dream Cabin](/assets/images/Cabin.png)
+
+[Original](/assets/images/Cabin.png)
 
 ---
 ---
