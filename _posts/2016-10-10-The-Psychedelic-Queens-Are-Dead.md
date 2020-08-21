@@ -6,7 +6,7 @@ last_modified_at: 2016-10-10
 categories: [Short Stories]
 ---
 ---
-Based on _Letters to a Dreamer_, the unfinished novel by Allison Jaegers
+Based on _Letters to a Dreamer_, the unfinished novel by Allison Jaggers
 
 ---
 
