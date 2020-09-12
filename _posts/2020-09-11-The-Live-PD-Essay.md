@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Live PD Essay"
-date:   2020-09-11
-last_modified_at: 2019-10-10
+date:   2019-10-10
+last_modified_at: 2020-09-11
 categories: [Essays]
 ---
 ---
