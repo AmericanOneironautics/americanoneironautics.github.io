@@ -54,7 +54,9 @@ Poaching also presented an obvious problem. The entire scheme rested on regulati
 One major hiccup occurred when another group of goblin sorcerers, this group at full strength, arrived suddenly in another forest cave. The players never learned how the goblins got there (many theorize they simply appeared, via a sort of dynamic spawn creation system) but, regardless, they started spawning fully functional adult goblins, mega goblins, and all the rest. The sudden arrival of adult goblins in the forest startled the players. Two days of crisis passed before Richard and company stormed the new cave and butchered all eight of the new sorcerers. Many thought this move rash, as having another half-strength goblin spawn would be beneficial given the ever increasing amount of players beginning to hunt in the forest, but Richard and his team were angry, and for good reason. The players suspected that they&#39;d taken several casualties, and had confirmed two. A mega goblin ambushed two players who, acclimated to the pathetic foes they&#39;d fought so far, were quickly and ignobly killed.
 
 ---
+
 >They are such babies. I am going to leave them in there until they can appreciate what it's like to have freedom. And if this doesn't bother them then I am out of ideas.
+
 ---
 
 The alarm clock&#39;s clattering woke Deus from restless sleep. Groggily, his eyes half open, he felt around the floor til he found his snub-nosed revolver. He raised it and released a round, blasting the across-the-room blaring clock off its shelf. The bullet ripped through the clock&#39;s complex gear-guts and smacked into the wall behind it, adding a hole to the dozen already there.
@@ -1499,7 +1501,9 @@ Too late. He, Charles, Beb, and Clean, perfectly, seamlessly; removed from the i
 --Oh shit, said Clean.
 
 ---
+
 >For the benefit of old-fashioned readers who wish to follow the destinies of the “real” people beyond the “true” story, a few details may be given as received from Mr. “Windmuller,” of “Ramsdale,” who desires his identity suppressed so that “the long shadow of this sorry and sordid business” should not reach the community to which he is proud to belong. His daughter, “Louise,” is by now a college sophomore, “Mona Dahl” is a student in Paris. “Rita” has recently married the proprietor of a hotel in Florida. Mrs. “Richard F. Schiller” died in childbed, giving birth to a stillborn girl, on Christmas Day 1952, in Gray Star, a settlement in the remotest Northwest. “Vivian Darkbloom” has written a biography, “My Cue,” to be published shortly, and critics who have perused the manuscript call it her best book. The caretakers of the various cemeteries involved report that no ghosts walk.
+
 ---
 
 The Shadow Realm was… pretty pleasant, actually. They landed in a field of gray flowers. Gray-leaved trees surrounded them. In the gray sky gray clouds toiled. There seemed to be a sun, but it was covered (by a moon?) as if in perpetual eclipse. The air was thick, gray, but clean, not like the smog that coated human cities, more like the mist rising from a morning pond. Black particles, unknown matter, floated; a sakura storm rendered in twilight tones.
